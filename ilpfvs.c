@@ -1,3 +1,9 @@
+/*
+Copyright: Tatsuya Akutsu, Kyoto University 
+This program can be used only for acamemic purposes.
+The author does not have any responsibility on problems caused by this program.
+*/
+
 #include        <stdio.h>
 #include        <stdlib.h>
 #include        <string.h>
